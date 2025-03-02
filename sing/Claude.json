@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "servd-anthropic-website.b-cdn.net",
+        "anthropic.com",
+        "claude.ai",
+        "claudeusercontent.com",
+        "intercomcdn.com",
+        "cdn.usefathom.com"
+      ]
+    }
+  ]
+}
