@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "monitor-frontend-collector.a.bybit-aws.com",
+        "bybit.com",
+        "bybit.biz",
+        "bybdc6.com",
+        "byabcde.com",
+        "byapps.net",
+        "byd3c3.com"
+      ]
+    }
+  ]
+}
